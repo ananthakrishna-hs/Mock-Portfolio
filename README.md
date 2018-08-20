@@ -8,3 +8,4 @@
 ## Features
 - Responsive.
 - HTML and CSS validated.
+> No internet connection required as framework files exist within.
