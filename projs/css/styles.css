@@ -1,0 +1,79 @@
+.card_title
+{
+	text-align: center;
+	font-variant: small-caps;
+	background-image: linear-gradient(to right, yellow, red);
+    color: transparent;
+  	-webkit-background-clip: text;
+  	text-shadow: 2px 2px 5px grey;
+  	text-decoration: underline;
+  	padding: 1px;
+ }
+
+.card_image
+{
+	margin: 0px auto;
+	padding: 2px;
+    display: block;
+    width: 300px;
+    height: 200px; 
+    border-style: outset dashed;
+    border-radius: 15%;
+}
+
+.image_caption
+{
+	text-align: center;
+	margin: 0px;
+}
+
+.card_body
+{
+	border: 1px ridge black;
+	box-shadow: 5px 5px 10px grey;
+	margin: auto;                                                                                                                                                                                                        
+    width:400px;
+    padding: 5px;
+   	height: 600px;
+    overflow-y: scroll;
+   	border-radius: 10px;
+    font-family: "Times New Roman", Arial, serif;
+	text-align: justify;
+	background-image: linear-gradient(to bottom, white, #9fc);
+}
+
+.card_content 
+{
+	border-style: groove;
+	border-color: yellow white red;
+	padding: 8px 4px;
+	margin: 10px auto;
+	width: 300px;
+	display: block;
+	color: #030;
+}
+
+.card_fact
+{
+	font-style: italic;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.card_list
+{
+	list-style-type: none;
+	text-transform: capitalize;
+}
+
+.list_item
+{
+	font-weight: bold;
+	color: #006;
+}
+
+.card_description
+{
+	color: #06c;
+}
+
+

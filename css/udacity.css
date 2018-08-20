@@ -1,0 +1,15 @@
+.udacity_heading {
+	text-align: center;
+}
+
+.project_nav {
+	text-align: center;
+	margin: 10px auto;
+	padding: 5px 0px;
+}
+
+.nav_container {
+	border: outset dodgerblue;
+	list-style-type: none;
+
+}

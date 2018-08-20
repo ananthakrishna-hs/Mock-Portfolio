@@ -1,0 +1,31 @@
+* {
+	font: large "Comic Sans MS", cursive, sans-serif;
+}
+
+.hobint_heading {
+	text-align: center;
+}
+
+.hobint_content {
+	text-indent: 10%;
+	color: #c90;
+}
+
+.hobint_section {
+	border: inset;
+	margin: 10px 0px;
+}
+
+.hobint_list {
+	background-color: green;
+	list-style: square outside url("../img/list_icon.png");
+}
+
+.hobint_list > li {
+	background-color: #c9f;
+	margin: 10px 0px;
+}
+
+.section_content {
+	text-shadow: 2px 2px 2px grey;
+}
